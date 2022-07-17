@@ -1,0 +1,32 @@
+body{
+    background-color: crimson;
+}
+#division1{
+    background-color: whitesmoke;
+    padding:10px;
+    float:none;
+    border-radius:15px;
+}
+#division2{
+    background-color: whitesmoke;
+    padding:10px;
+    float:none;
+    border-radius:15px;
+
+}
+#PLAYER1_name{
+    display: inline-block;
+    margin-left:20px ;
+}
+#PLAYER2_name{
+    display: inline-block;
+    margin-left: 20px;
+}
+#word{
+    width: 60%;
+}
+#btn1{
+    border: 20px;
+    background-color: blue;
+    width: fit-content;
+}
